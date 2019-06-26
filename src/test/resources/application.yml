@@ -1,0 +1,6 @@
+server:
+  port: 30000
+
+chinamobile:
+  jf:
+    apiurl:
